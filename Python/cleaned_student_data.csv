@@ -1,0 +1,9 @@
+Student_ID,Name,Age,Marks,Attendance,Total_Score,Result,Rank,Performance
+101,Amit,20,0.7407407407407407,90.0,175.0,Pass,4.0,High
+102,Riya,21,1.0,95.0,187.0,Pass,1.0,High
+103,Neha,19,0.48148148148148145,88.0,166.0,Pass,6.0,Medium
+104,Kunal,22,0.0,70.0,135.0,Pass,7.5,Low
+105,Pooja,20,0.8518518518518519,92.0,180.0,Pass,3.0,High
+106,Rohit,21,0.5767195767195766,85.0,165.57142857142856,Pass,5.0,Medium
+107,Anjali,19,0.9629629629629629,0.0,91.0,Pass,2.0,High
+108,Kunal,22,0.0,70.0,135.0,Pass,7.5,Low
